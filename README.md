@@ -13,7 +13,7 @@
 
 </div>
 
-![头像](image/touxiang.jpg)
+![头像](image/头像.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/Edge-love/count.svg)
 
